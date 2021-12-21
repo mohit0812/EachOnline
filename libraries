@@ -1,0 +1,5 @@
+1) django environ (pip install django-environ)
+2)pip install django-adminlte3
+3)pip install django-autoslug
+4)pip install pyzipper
+5)pip install django-ckeditor

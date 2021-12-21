@@ -1,0 +1,16 @@
+asgiref==3.2.10
+Django==3.1.1
+django-adminlte3==0.1.6
+django-autoslug==1.9.8
+django-ckeditor==6.0.0
+django-cors-headers==3.5.0
+django-environ==0.4.5
+django-js-asset==1.2.2
+djangorestframework==3.11.1
+mysqlclient==2.0.1
+Pillow==7.2.0
+pycryptodomex==3.9.8
+pytz==2020.1
+pyzipper==0.3.3
+six==1.15.0
+sqlparse==0.3.1
